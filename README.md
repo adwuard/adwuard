@@ -16,5 +16,5 @@ Project List: [List](https://adwuard.github.io/projects/)
 --- 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adwuard" />
+  <img align="center" src="https://githubcard.com/adwuard.svg?d=v3QzJhw0" />
 <p>
